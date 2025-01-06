@@ -1,2 +1,2 @@
-# MINI_PROJECT-1
-Retail Orders Analysis
+# Retail Orders Analysis
+Retail_Orders_Analysis
